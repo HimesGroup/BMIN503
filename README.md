@@ -8,11 +8,11 @@ Data science refers broadly to using statistics and informatics techniques to ga
 *	Be familiar with various biomedical data types and resources related to them.
 *	Know how to create reproducible and easily shareable results with R and GitHub.
 
-Course Director: <br>
+**Course Director:** <br>
 Blanca E Himes, PhD <br>
 Assistant Professor of Epidemiology <br>
 
-Guest Lecturers: <br>
+**Guest Lecturers:** <br>
 Casey Greene, PhD <br>
 Daniel Himmelstein, PhD <br>
 John Holmes, PhD <br>
@@ -21,7 +21,7 @@ Jason Moore, PhD <br>
 Randy Olson, PhD <br>
 Lyle Ungar, PhD <br>
 
-TA: <br>
+**TA:** <br>
 Ryan Urbanowicz, PhD <br>
 
 Time: Tuesday, Thursday 1-2:30pm <br>
