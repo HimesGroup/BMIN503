@@ -45,6 +45,7 @@ Due dates for the assignments: 9/6/16, 9/20/16, 10/4/16, 10/25/16, 11/8/16, 11/2
 
 ### Biomedical Data Science Project
 The final project will answer a question selected by each student using publicly available biomedical data and some of the tools presented during the course. After students choose the topic to address on their own, each will identify three faculty/staff scientists/postdocs from different departments/fields to get feedback and help define a specific novel and interdisciplinary question. Students will work on these projects throughout the semester. Final project reports are due 12/9/16. Grading will be based on three project components: 
+
 1. An html document derived from R markdown that describes the question, source of data, analysis, and results
 2. A GitHub repository that contains an organized project
 3. A 10 minute oral presentation describing the work to classmates.
