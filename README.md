@@ -63,3 +63,7 @@ All work submitted for credit is expected to be your own work. In the preparatio
 
 ### Students with Disabilities
 University of Pennsylvania, provides reasonable accommodations to students with disabilities who have self-identified and been approved by the office of Student Disabilities Services (SDS). Please make an appointment to meet with me as soon as possible in order to discuss your accommodations and your needs. If you have not yet contacted SDS, and would like to request accommodations or have questions, you can make an appointment by calling (215) 573-9235. The SDS office is located in the Weingarten Learning Resources Center at Stouffer Commons 3702 Spruce Street, Suite 300. All services are confidential.
+
+============
+The titanic3.csv file was obtained [here](http://biostat.mc.vanderbilt.edu/wiki/Main/DataSets).
+
