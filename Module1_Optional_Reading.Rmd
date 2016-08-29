@@ -1,0 +1,147 @@
+---
+title: "EPID 600: Module 1 Optional Reading"
+output: html_document
+---
+***
+
+#### Data Science
+
+- [Data Scientist: The Sexiest Job of the 21st Century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/)
+
+- [Data Science... Buzzword?](http://www.forbes.com/sites/gilpress/2013/08/19/data-science-whats-the-half-life-of-a-buzzword/)
+
+- [Data Science Supply and Demand](http://www.forbes.com/sites/gilpress/2015/04/30/the-supply-and-demand-of-data-scientists-what-the-surveys-say/)
+
+- [No-Boundary Thinking in Bioinformatics](http://www.biodatamining.org/content/6/1/19)
+
+
+#### Getting Help
+
+- [Biostars](https://www.biostars.org/)
+
+- [Seqanswers](http://seqanswers.com/)
+
+
+#### Unix
+
+- [Unix tutorial](http://www.ee.surrey.ac.uk/Teaching/Unix/)
+
+- [Unix commands for data science](http://www.gregreda.com/2013/07/15/unix-commands-for-data-science/)
+
+- [Unix commands for bioinformatics](http://lh3lh3.users.sourceforge.net/biounix.shtml)
+
+
+#### R
+
+- [R Manuals](https://cran.r-project.org/manuals.html)
+
+- [R Markdown](http://rmarkdown.rstudio.com/)
+
+- [Hadley Wickham](http://priceonomics.com/hadley-wickham-the-man-who-revolutionized-r/)
+
+
+#### Git/GitHub
+
+- [Intro to git and github](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668)
+
+- [Git guide](https://rogerdudler.github.io/git-guide/)
+
+- [Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+
+- [Interactive git tutorial](https://try.github.io/levels/1/challenges/1)
+
+- [Github tutorial](http://kbroman.org/github_tutorial/)
+
+- [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
+
+- [Simple Rules for Taking Advantage of GitHub](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947)
+
+
+#### Reproducibility
+
+- [Why Most Research Findings Are False](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1182327/pdf/pmed.0020124.pdf)
+
+- [Reliability of Drug Target Claims Questioned](http://blogs.nature.com/news/2011/09/reliability_of_new_drug_target.html)
+
+- [Lies, Damned Lies, and Medical Scince](http://www.theatlantic.com/magazine/archive/2010/11/lies-damned-lies-and-medical-science/308269/)
+
+- [Science isn't Broken](http://fivethirtyeight.com/features/science-isnt-broken/)
+
+- [Deworming Trials](http://www.buzzfeed.com/bengoldacre/deworming-trials)
+
+- [Reproducible Research in Computational Science](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3383002/)
+
+- [Best Practices for Scientific Computing](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
+
+- [Spurious Correlations](http://www.tylervigen.com/spurious-correlations)
+
+
+#### Information Retrieval
+
+- [Webscraping](https://blog.hartleybrody.com/web-scraping/)
+
+- [Webscraping ethics](https://quickleft.com/blog/is-web-scraping-ethical/)
+
+#### Exploratory Analysis
+
+- [Probability Distributions Crib Sheet](http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
+
+- [Slides from Vanderbilt course on Graph Construction](http://biostat.mc.vanderbilt.edu/wiki/pub/Main/StatGraphCourse/graphscourse.pdf)
+
+
+#### Visualization
+
+- [Buzzfeed listicle format](http://www.storybench.org/using-buzzfeeds-listicle-format-tell-stories-maps-charts/)
+
+- [rCharts Gallery](http://rcharts.io/gallery/)
+
+- [plot.ly interactive charts](http://moderndata.plot.ly/interactive-r-visualizations-with-d3-ggplot2-rstudio/)
+
+- [plot.ly R shinny gallery](https://plot.ly/r/shiny-gallery/)
+
+- [Colorbrewer - colors for cartography](http://colorbrewer2.org/)
+
+- [ggplot2 samples with code](http://rvisualization.com/r-scripts/)
+
+- [Another sampling of ggplot2 graphs](http://shiny.stat.ubc.ca/r-graph-catalog/)
+
+- [How mass breast cancer screening failed... in one chart](http://www.vox.com/2015/10/28/9631500/does-mammography-work)
+
+- [gganimate to make animated plots in R](https://github.com/dgrtwo/gganimate)
+
+- [Tufte style for R Markdown](http://rstudio.github.io/tufte/)
+
+- [Causes of death visualization](http://flowingdata.com/2016/01/05/causes-of-death/)
+
+#### Machine Learning
+
+- [Decision Trees Visual Resource](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+
+- [Classifier Visualization (code in Python)](http://scikit-learn.org/stable/auto_examples/plot_classifier_comparison.html)
+
+- [SVM Kernels](http://scikit-learn.org/stable/auto_examples/svm/plot_svm_kernels.html)
+
+- [Machine Learning Tutorial by Hastie and Tibshirani](http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/)
+
+- [ROC and AUC](http://www.joyofdata.de/blog/illustrated-guide-to-roc-and-auc/)
+
+- [How Not to Use Machine Learning: Case Study from ASHG 2015](http://andrewgelman.com/2015/10/10/gay-gene-tabloid-hype-update/)
+
+- [Neural Net interactive demo](http://playground.tensorflow.org)
+
+#### Data Sources
+
+- [Lists of Goverment Data](http://www.data.gov/open-gov/)
+
+- [Philadelphia](https://www.opendataphilly.org/)
+
+- [LexHub, language analyses deriving insights about people](http://lexhub.org/data_sets.html)
+
+- [A little of everything](https://github.com/caesar0301/awesome-public-datasets/blob/master/README.rst)
+
+- [CDC Datasets](http://www.cdc.gov/nchs/data_access/ftp_data.htm)
+
+- [Collection from Vanderbilt biostats](http://biostat.mc.vanderbilt.edu/wiki/Main/DataSets)
+
+***
+
