@@ -1,6 +1,6 @@
 NHANES Data Dictionary
 =========
-This dictionary is for a portion of [NHANES](http://www.cdc.gov/nchs/nhanes.htm) 2007-2008 data that was extracted by the UPenn [Cartographic Modeling Lab](http://www.cml.upenn.edu/).
+This dictionary is for a portion of [NHANES](http://www.cdc.gov/nchs/nhanes.htm) 2007-2008 data.
 
 | Variable Name | Variable Description | Variable Label |
 |---------------|----------------------|----------------|
