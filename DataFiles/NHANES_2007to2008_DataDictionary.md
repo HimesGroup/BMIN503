@@ -4,6 +4,7 @@ This dictionary is for a portion of [NHANES](http://www.cdc.gov/nchs/nhanes.htm)
 
 | Variable Name | Variable Description | Variable Label |
 |---------------|----------------------|----------------|
+|SEQN           |Subject ID            |                |
 |RIAGENDR       |Gender                |1=Male; 2=Female; All else=Missing |
 |RIDAGEYR       |Age at screening      |0-79=Range of values; 80= GE 8- years of age; All else=Missing|
 |RIDRETH1       |Race/ethnicity        |1=Mexican American; 2=Hispanic; 3=Non-Hispanic White; 4=Non-Hispanic Black; 5=Other Race, including multi-racial; All else=Missing|
