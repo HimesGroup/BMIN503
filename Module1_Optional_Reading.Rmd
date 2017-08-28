@@ -95,17 +95,13 @@ output: html_document
 
 - [Buzzfeed listicle format](http://www.storybench.org/using-buzzfeeds-listicle-format-tell-stories-maps-charts/)
 
-- [rCharts Gallery](http://rcharts.io/gallery/)
+- [rCharts Gallery](http://www.r-graph-gallery.com/all-graphs/)
 
 - [plot.ly interactive charts](http://moderndata.plot.ly/interactive-r-visualizations-with-d3-ggplot2-rstudio/)
 
-- [plot.ly R shinny gallery](https://plot.ly/r/shiny-gallery/)
+- [plot.ly R Shiny gallery](https://plot.ly/r/shiny-gallery/)
 
 - [Colorbrewer - colors for cartography](http://colorbrewer2.org/)
-
-- [ggplot2 samples with code](http://rvisualization.com/r-scripts/)
-
-- [Another sampling of ggplot2 graphs](http://shiny.stat.ubc.ca/r-graph-catalog/)
 
 - [How mass breast cancer screening failed... in one chart](http://www.vox.com/2015/10/28/9631500/does-mammography-work)
 
@@ -115,11 +111,10 @@ output: html_document
 
 - [Causes of death visualization](http://flowingdata.com/2016/01/05/causes-of-death/)
 
+
 #### Machine Learning
 
 - [Decision Trees Visual Resource](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
-
-- [Classifier Visualization (code in Python)](http://scikit-learn.org/stable/auto_examples/plot_classifier_comparison.html)
 
 - [SVM Kernels](http://scikit-learn.org/stable/auto_examples/svm/plot_svm_kernels.html)
 
