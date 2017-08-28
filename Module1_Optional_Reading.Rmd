@@ -21,6 +21,8 @@ output: html_document
 
 - [Seqanswers](http://seqanswers.com/)
 
+- [Stack Overflow](https://stackoverflow.com/)
+
 
 #### Unix
 
