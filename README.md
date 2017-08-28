@@ -23,8 +23,8 @@ Ryan Urbanowicz, PhD <br>
 **TA:** <br>
 Ryan Urbanowicz, PhD <br>
 
-Time: Tuesday, Thursday 1:30-3:00pm <br>
-Location: Richards C108 <br>
+Time: Tuesday, Thursday 12:00-1:30pm <br>
+Location: 418 Blockley <br>
 
 Office Hours: By appointment. <br>
 
