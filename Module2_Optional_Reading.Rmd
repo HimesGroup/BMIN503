@@ -1,5 +1,5 @@
 ---
-title: "EPID 600: Module 2 Optional Reading"
+title: "BMIN503/EPID600: Module 2 Optional Reading"
 output: html_document
 ---
 ***
