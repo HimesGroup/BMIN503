@@ -81,6 +81,7 @@ output: html_document
 
 - [Research Parasite Award Correspondence](http://www.nature.com/ng/journal/v49/n4/full/ng.3830.html)
 
+- [Amgen Most Pre-Clinical Studies Are not Reproducible](http://www.nature.com/news/biotech-giant-publishes-failures-to-confirm-high-profile-science-1.19269)
 
 #### Information Retrieval
 
