@@ -6,7 +6,7 @@ This dictionary is for a portion of [NHANES](http://www.cdc.gov/nchs/nhanes.htm)
 |---------------|----------------------|----------------|
 |SEQN           |Subject ID            |                |
 |RIAGENDR       |Gender                |1=Male; 2=Female; All else=Missing |
-|RIDAGEYR       |Age at screening      |0-79=Range of values; 80= GE 8- years of age; All else=Missing|
+|RIDAGEYR       |Age at screening      |0-79=Range of values; 80= greater than or equal to 80 years of age; All else=Missing|
 |RIDRETH1       |Race/ethnicity        |1=Mexican American; 2=Hispanic; 3=Non-Hispanic White; 4=Non-Hispanic Black; 5=Other Race, including multi-racial; All else=Missing|
 |DMDEDUC2       |Educational level, adults 20+|1=Less than 9th grade; 2=9-11th grade (includes 12th grade with no diploma); 3=High school grad/GED or equivalent; 4=Some college or AA degree; 5=College graduate or above; 77=Refused; 9=Don't know; All else=Missing|
 |INDHHIN2       |Annual household income (reported as a range value in dollars)|1=$0-4,999; 2=$5,000-9,999; 3=$10,000-14,999; 4= $15,000-19,999; 5=$20,000-24,999; 6=$25,000-34,999; 7=$35,000-44,999; 8= $45,000-54,999; 9=$55,000-64,999; 10=$65,000-74,999;12=Over $20,000; 13= Under $20,000; 14=$75,000-99,999; 15=$100,000 and over; 77=Refused; 99=Don't know; All else=Missing|
