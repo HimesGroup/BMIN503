@@ -33,7 +33,7 @@ output: html_document
 - [Matt Might Talk on How to Face an Unknown Rare Disease and Challenging the "Not Actionable" Label](https://youtu.be/rx0kK6VnLSc)
 
 
-#### Genomic Data
+#### Transcriptomic Data
 
 - [Classic gene expression study of breast cancer](http://www.nature.com/nature/journal/v415/n6871/full/415530a.html)
 
