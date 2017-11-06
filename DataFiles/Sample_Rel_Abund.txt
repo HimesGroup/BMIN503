@@ -1,0 +1,6 @@
+Genus	Sample1	Sample2	Sample3	Sample4
+Corynebacterium	0.40	0.30	0.05	0.00
+Staphylococcus	0.20	0.35	0.40	0.15
+Streptococcus	0.05	0.10	0.35	0.20
+Propionibacterium	0.35	0.20	0.05	0.00
+Clostridium	0.0	0.05	0.15	0.65
