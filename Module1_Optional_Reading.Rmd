@@ -131,6 +131,11 @@ output: html_document
 
 - [Neural Net interactive demo](http://playground.tensorflow.org)
 
+- [TensorFlow for R](https://tensorflow.rstudio.com/)
+
+- [Connecting R to OpenML](http://openml.github.io/articles/slides/useR2017_tutorial/)
+
+
 #### Data Sources
 
 - [Lists of Goverment Data](http://www.data.gov/open-gov/)

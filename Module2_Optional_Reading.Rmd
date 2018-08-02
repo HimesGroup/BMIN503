@@ -72,4 +72,4 @@ output: html_document
 
 - [AWS Training](https://aws.amazon.com/training/intro_series/)
 
-- [Angel Pizarro Podcast About AWS](http://mendelspod.com/podcasts/genomics-and-cloud-going-through-second-puberty-says-aws-angel-pizarro/)
+- [What is cloud computing?](https://aws.amazon.com/what-is-cloud-computing/)
