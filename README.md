@@ -1,6 +1,6 @@
 Data Science for Biomedical Informatics (BMIN503/EPID600)
 ============
-This repository contains files used for a University of Pennsylvania course taught Fall 2017. The [main course website](https://canvas.upenn.edu/courses/1369605) contains further details for students enrolled in the course.
+This repository contains files used for a University of Pennsylvania course taught Fall 2018. The [main course website](https://canvas.upenn.edu/courses/1413305) contains further details for students enrolled in the course.
 
 ### Course Description
 Data science refers broadly to using statistics and informatics techniques to gain insights from large datasets. Biomedical informatics refers to a range of disciplines that use computational approaches to analyze biomedical data to answer pre-specified questions as well as to discover novel hypotheses. In this course, we will use R and other freely available software to learn fundamental data science applied to a range of biomedical informatics topics, including those making use of health and omics data. After completing this course, students will:
@@ -16,15 +16,19 @@ Assistant Professor of Informatics <br>
 Elizabeth Grice, PhD <br>
 John Holmes, PhD <br>
 Rebecca Hubbard, PhD <br>
+Mengyuan Kan, PhD <br>
 William La Cava, PhD <br>
 Jason Moore, PhD <br>
+Abeed Sarker, PhD <br>
 Ryan Urbanowicz, PhD <br>
+Sherrie Xie, BS <br>
+
 
 **TA:** <br>
-Ryan Urbanowicz, PhD <br>
+Sherrie Xie, BS <br>
 
-Time: Tuesday, Thursday 12:00-1:30pm <br>
-Location: 418 Blockley <br>
+Time: Tuesday, Thursday 1:30-3:00pm <br>
+Location: 251 BRB <br>
 
 Office Hours: By appointment. <br>
 
@@ -40,10 +44,10 @@ Grading: The course is graded on a letter grade basis, according to the followin
 This course meets twice weekly. The first half of each session is lecture-based, and the second half is spent working through computational exercises. Six assignments will be due throughout the semester. A final project requiring a substantial amount of work and creativity will be due at the end of the semester. This project is in lieu of a final exam. Students will be encouraged to work independently and seek help as needed.
 
 ### Assignments
-Due dates for the assignments: 9/5/17, 9/19/17, 10/6/17, 10/24/17, 11/7/17, 11/21/17.
+Due dates for the assignments: 9/4/18, 9/18/18, 10/5/18, 10/23/18, 11/6/18, 11/20/18.
 
 ### Biomedical Data Science Project
-The final project will answer a question selected by each student using publicly available biomedical data and some of the tools presented during the course. After students choose the topic to address on their own, each will identify three faculty/staff scientists/postdocs from different departments/fields to get feedback and help define a specific novel and interdisciplinary question. Students will work on these projects throughout the semester. Final project reports are due 12/8/17. Grading will be based on three project components: 
+The final project will answer a question selected by each student using publicly available biomedical data and some of the tools presented during the course. After students choose the topic to address on their own, each will identify three faculty/staff scientists/postdocs from different departments/fields to get feedback and help define a specific novel and interdisciplinary question. Students will work on these projects throughout the semester. Final project reports are due 12/12/18. Grading will be based on three project components: 
 
 1. An html document derived from R markdown that describes the question, source of data, analysis, and results
 2. A GitHub repository that contains an organized project
