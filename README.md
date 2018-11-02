@@ -1,5 +1,6 @@
 Data Science for Biomedical Informatics (BMIN503/EPID600)
 ============
+
 This repository contains files used for a University of Pennsylvania course taught Fall 2018. The [main course website](https://canvas.upenn.edu/courses/1413305) contains further details for students enrolled in the course.
 
 ### Course Description
