@@ -14,6 +14,8 @@ output: html_document
 
 - [No-Boundary Thinking in Bioinformatics](http://www.biodatamining.org/content/6/1/19)
 
+- [IBI faculty paper on knowledge areas needed for big data](https://www.futuremedicine.com/doi/full/10.2217/pme-2018-0145)
+
 
 #### Getting Help
 
@@ -23,6 +25,7 @@ output: html_document
 
 - [Stack Overflow](https://stackoverflow.com/)
 
+- [How to ask questions to get help with software](http://www.catb.org/~esr/faqs/smart-questions.html)
 
 #### Unix
 
