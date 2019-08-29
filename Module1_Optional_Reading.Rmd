@@ -64,6 +64,8 @@ output: html_document
 
 #### Reproducibility
 
+- [Nature collection on challenges in irreproducible research](https://www.nature.com/collections/prbfkwmwvz)
+
 - [Why Most Research Findings Are False](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1182327/pdf/pmed.0020124.pdf)
 
 - [Reliability of Drug Target Claims Questioned](http://blogs.nature.com/news/2011/09/reliability_of_new_drug_target.html)
