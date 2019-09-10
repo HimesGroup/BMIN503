@@ -1,4 +1,4 @@
-GEO_ID	Tissue	Gender	Age	Disease	Subject	QC_Pass
+GEO_ID	Tissue	Sex	Age	Disease	Subject	QC_Pass
 GSM870902	Peripheral_Blood	Female	10	non_asthmatic	child-1	1
 GSM870903	Peripheral_Blood	male	10	asthmatic	child-2	1
 GSM870904	Peripheral_Blood	male	12	asthmatic	child-5	1
