@@ -10,7 +10,6 @@ output: html_document
 
 - [Using Twitter as a Data Source](http://blogs.lse.ac.uk/impactofsocialsciences/2015/07/10/social-media-research-tools-overview/)
 
-
 #### Census and other GIS Data
 
 - [Nathan Yau US Statistical Atlas - Amazing Plots, No Code](http://flowingdata.com/2015/06/16/reviving-the-statistical-atlas-of-the-united-states-with-new-data/)
@@ -36,7 +35,6 @@ output: html_document
 
 - [Matt Might Talk on How to Face an Unknown Rare Disease and Challenging the "Not Actionable" Label](https://youtu.be/rx0kK6VnLSc)
 
-
 #### Transcriptomic Data
 
 - [Classic gene expression study of breast cancer](http://www.nature.com/nature/journal/v415/n6871/full/415530a.html)
@@ -54,17 +52,6 @@ output: html_document
 - [What is a read mapping?](https://liorpachter.wordpress.com/2015/11/01/what-is-a-read-mapping/)
 
 - [Unwanted effects when processing blood samples](http://www.pnas.org/content/111/47/16802.short)
-
-
-#### Epigenetic Data
-
-- [ENCODE](http://www.genome.gov/10005107)
-
-- [ENCODE criticism as scientific viewpoint](http://www.pnas.org/content/110/14/5294)
-
-- [ENCODE criticism overview](http://blogs.nature.com/news/2012/09/fighting-about-encode-and-junk.html)
-
-- [Roadmap Epigenomics](http://www.roadmapepigenomics.org/)
 
 #### Functional Annotation and Pathway Analysis
 

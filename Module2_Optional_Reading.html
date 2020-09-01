@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -268,7 +268,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -330,6 +329,7 @@ summary {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -341,18 +341,6 @@ summary {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -424,15 +412,6 @@ $(document).ready(function () {
 <li><p><a href="http://www.pnas.org/content/111/47/16802.short">Unwanted effects when processing blood samples</a></p></li>
 </ul>
 </div>
-<div id="epigenetic-data" class="section level4">
-<h4>Epigenetic Data</h4>
-<ul>
-<li><p><a href="http://www.genome.gov/10005107">ENCODE</a></p></li>
-<li><p><a href="http://www.pnas.org/content/110/14/5294">ENCODE criticism as scientific viewpoint</a></p></li>
-<li><p><a href="http://blogs.nature.com/news/2012/09/fighting-about-encode-and-junk.html">ENCODE criticism overview</a></p></li>
-<li><p><a href="http://www.roadmapepigenomics.org/">Roadmap Epigenomics</a></p></li>
-</ul>
-</div>
 <div id="functional-annotation-and-pathway-analysis" class="section level4">
 <h4>Functional Annotation and Pathway Analysis</h4>
 <ul>
@@ -465,6 +444,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

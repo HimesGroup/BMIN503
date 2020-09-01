@@ -47,15 +47,13 @@ output: html_document
 
 #### Git/GitHub
 
+- [Pro Git book](https://git-scm.com/book/en/v2)
+
 - [Intro to git and github](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668)
 
 - [Git guide](https://rogerdudler.github.io/git-guide/)
 
-- [Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
-
 - [Interactive git tutorial](https://try.github.io/levels/1/challenges/1)
-
-- [Github tutorial](http://kbroman.org/github_tutorial/)
 
 - [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
 

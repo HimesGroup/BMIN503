@@ -1,7 +1,7 @@
 Data Science for Biomedical Informatics (BMIN503/EPID600)
 ============
 
-This repository contains files used for a University of Pennsylvania course taught Fall 2019. The [main course website](https://canvas.upenn.edu/courses/1467543) contains further details for students enrolled in the course.
+This repository contains files used for a University of Pennsylvania course taught Fall 2020. The [main course website](https://canvas.upenn.edu/courses/1528848) contains further details for students enrolled in the course.
 
 ### Course Description
 Data science refers broadly to using statistics and informatics techniques to gain insights from large datasets. Biomedical informatics refers to a range of disciplines that use computational approaches to analyze biomedical data to answer pre-specified questions as well as to discover novel hypotheses. In this course, we will use R and other freely available software to learn fundamental data science applied to a range of biomedical informatics topics, including those making use of health and omics data. After completing this course, students will:
@@ -11,7 +11,7 @@ Data science refers broadly to using statistics and informatics techniques to ga
 
 **Course Director:** <br>
 Blanca E Himes, PhD <br>
-Assistant Professor of Informatics <br>
+Associate Professor of Informatics <br>
 
 **Guest Lecturers:** <br>
 Elizabeth Grice, PhD <br>
@@ -20,23 +20,17 @@ Jesse Yenchih Hsu, PhD <br>
 Mengyuan Kan, PhD <br>
 Ari Klein, PhD <br>
 William La Cava, PhD <br>
-Jason Moore, PhD <br>
 Erin Schnellinger, MS <br>
 Ryan Urbanowicz, PhD <br>
 Sherrie Xie, BS <br>
 
 
-**TAs:** <br>
-Erin Schnellinger, MS <br>
-Emma Zheng, MS <br>
+**TA:** <br>
+Alexa Woodward, MS <br>
 
-Time: Tuesday, Thursday 1:30-3:00pm <br>
-Location: B102 Richards <br>
-
-Office Hours: By appointment. <br>
 
 ### Expectations
-You are expected to attend all sessions of the course, read assigned chapters and articles prior to class (if/when assigned), participate during class sessions, and complete required exercises and the class project. This course requires use of a laptop computer, which you must bring to fully participate in lectures and scheduled lab activities. You must be familiar with this laptop and able to install free programs onto it. 
+You are expected to view all sessions of the course, participate in virtual class discussions, and complete required exercises and the class project.  This course requires use of a computer, which you must have to fully participate in lectures and online activities. You must be familiar with this computer and able to install free programs onto it. 
 
 Grading: The course is graded on a letter grade basis, according to the following proportions:
 * 40% assignments (6 total)
@@ -44,17 +38,17 @@ Grading: The course is graded on a letter grade basis, according to the followin
 * 20% participation in class and lab sessions
 
 ### Format
-This course meets twice weekly. The first half of each session is lecture-based, and the second half is spent working through computational exercises. Six assignments will be due throughout the semester. A final project requiring a substantial amount of work and creativity will be due at the end of the semester. This project is in lieu of a final exam. Students will be encouraged to work independently and seek help as needed.
+The course will be held virtually. Asynchronous lectures and practicum materials to work through computational exercises will be available weekly. Six assignments will be due throughout the semester. A final project requiring a substantial amount of work and creativity will be due at the end of the semester. This project is in lieu of a final exam. Students will be encouraged to work independently and seek help as needed. Synchronous meetings will occur most Tuesdays and Thursdays 1:30-2:30pm to discuss material covered in recorded lectures and answer student questions. Check Canvas frequently to find out the latest announcements. 
 
 ### Assignments
-Due dates for the assignments: 9/5/19, 9/19/19, 10/4/19, 10/24/19, 11/7/19, 11/21/19.
+Due dates for the assignments: 9/10/20, 9/24/20, 10/8/20, 10/22/20, 11/5/20, 11/19/20.
 
 ### Biomedical Data Science Project
-The final project will answer a question selected by each student using publicly available biomedical data and some of the tools presented during the course. After students choose the topic to address on their own, each will identify three faculty/staff scientists/postdocs from different departments/fields to get feedback and help define a specific novel and interdisciplinary question. Students will work on these projects throughout the semester. Final project reports are due 12/13/19. Grading will be based on three project components: 
+The final project will answer a question selected by each student using biomedical data and some of the tools presented during the course. After students choose the topic to address on their own, each will identify three faculty/staff scientists/postdocs from different departments/fields to get feedback and help define a specific novel and interdisciplinary question. Although use of publicly available data for the project is encouraged, students may use an appropriate private data source. Students will work on these projects throughout the semester with final project reports due on 12/11/20. Grading will be based on three project components: 
 
 1. An html document derived from R markdown that describes the question, source of data, analysis, and results
 2. A GitHub repository that contains an organized project
-3. A 15 minute oral presentation describing the work to classmates.
+3. An online presentation describing the work to classmates
 
 ### Textbooks
 There are many free online resources to learn R. The following two textbooks are suggested but not required for those students who prefer to have a printed reference:
