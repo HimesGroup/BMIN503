@@ -86,6 +86,13 @@ output: html_document
 
 - [Amgen Most Pre-Clinical Studies Are not Reproducible](http://www.nature.com/news/biotech-giant-publishes-failures-to-confirm-high-profile-science-1.19269)
 
+- [COVID-19 Models](https://science.sciencemag.org/content/368/6490/482.2)
+
+- [COVID-19 Clinical Trials](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2768882)
+
+- [COVID-19 Preprints](https://www.nature.com/articles/d41586-020-01394-6)
+
+
 #### Information Retrieval
 
 - [Webscraping](https://blog.hartleybrody.com/web-scraping/)
