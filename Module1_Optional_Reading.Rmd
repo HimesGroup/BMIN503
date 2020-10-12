@@ -97,11 +97,8 @@ output: html_document
 
 - [Webscraping](https://blog.hartleybrody.com/web-scraping/)
 
-- [Webscraping ethics](https://quickleft.com/blog/is-web-scraping-ethical/)
 
 #### Exploratory Analysis
-
-- [Probability Distributions Crib Sheet](http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
 
 - [Slides from Vanderbilt course on Graph Construction](http://biostat.mc.vanderbilt.edu/wiki/pub/Main/StatGraphCourse/graphscourse.pdf)
 
@@ -111,10 +108,6 @@ output: html_document
 - [Buzzfeed listicle format](http://www.storybench.org/using-buzzfeeds-listicle-format-tell-stories-maps-charts/)
 
 - [rCharts Gallery](http://www.r-graph-gallery.com/all-graphs/)
-
-- [plot.ly interactive charts](http://moderndata.plot.ly/interactive-r-visualizations-with-d3-ggplot2-rstudio/)
-
-- [plot.ly R Shiny gallery](https://plot.ly/r/shiny-gallery/)
 
 - [Colorbrewer - colors for cartography](http://colorbrewer2.org/)
 
@@ -132,6 +125,8 @@ output: html_document
 - [Decision Trees Visual Resource](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
 - [SVM Kernels](http://scikit-learn.org/stable/auto_examples/svm/plot_svm_kernels.html)
+
+- [SVM Explorer](https://dash-gallery.plotly.host/dash-svm/)
 
 - [Machine Learning Tutorial by Hastie and Tibshirani](http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/)
 

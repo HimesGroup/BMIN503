@@ -29,7 +29,7 @@ output: html_document
 
 - [1000 Genome Project End](http://www.wired.com/2015/09/power-1000-genomes/)
 
-- [Whole Exome Sequencing Review](http://www.nature.com/jhg/journal/v59/n1/full/jhg2013114a.html)
+- [Whole Exome Sequencing Review](https://f1000research.com/articles/9-336/v1)
 
 - [Tutorials from the UK 100,000 Genomes Project](http://www.genomicsengland.co.uk/the-100000-genomes-project/understanding-genomics/)
 
