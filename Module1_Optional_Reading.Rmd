@@ -80,7 +80,7 @@ output: html_document
 
 - [Spurious Correlations](http://www.tylervigen.com/spurious-correlations)
 
-- [NEJM Research Parasite Editorial](http://www.nejm.org/doi/full/10.1056/NEJMe1516564#t=article)
+- [NEJM Research Parasite Editorial](https://www.nejm.org/doi/full/10.1056/NEJMe1516564#t=article)
 
 - [Research Parasite Award Correspondence](http://www.nature.com/ng/journal/v49/n4/full/ng.3830.html)
 
