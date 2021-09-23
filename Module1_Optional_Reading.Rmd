@@ -98,11 +98,6 @@ output: html_document
 - [Webscraping](https://blog.hartleybrody.com/web-scraping/)
 
 
-#### Exploratory Analysis
-
-- [Slides from Vanderbilt course on Graph Construction](http://biostat.mc.vanderbilt.edu/wiki/pub/Main/StatGraphCourse/graphscourse.pdf)
-
-
 #### Visualization
 
 - [Buzzfeed listicle format](http://www.storybench.org/using-buzzfeeds-listicle-format-tell-stories-maps-charts/)
@@ -153,13 +148,7 @@ output: html_document
 
 - [CDC Datasets](http://www.cdc.gov/nchs/data_access/ftp_data.htm)
 
-- [Collection from Vanderbilt biostats](http://biostat.mc.vanderbilt.edu/wiki/Main/DataSets)
-
 - [COVID-19 in Philadelphia](https://www.phila.gov/programs/coronavirus-disease-2019-covid-19/testing-and-data/)
-
-- [COVID-19 in Delaware County](https://chesco.maps.arcgis.com/apps/opsdashboard/index.html#/fd5bfe0a9461440eb36901d61cf6b468)
-
-- [COVID-19 in Montgomery County](https://data-montcopa.opendata.arcgis.com/pages/covid-19)
 
 - [JHU COVID-19 Counts](https://github.com/CSSEGISandData/COVID-19)
 
