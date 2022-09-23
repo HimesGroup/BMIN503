@@ -1,5 +1,5 @@
 ---
-title: "BMIN503/EPID600: Module 1 Optional Reading"
+title: "BMIN503/EPID600: Optional Reading"
 output: html_document
 ---
 ***
@@ -135,27 +135,66 @@ output: html_document
 
 - [Connecting R to OpenML](http://openml.github.io/articles/slides/useR2017_tutorial/)
 
+#### Social Media Data
 
-#### Data Sources
+- [Project Well Being](http://wwbp.org/)
 
-- [Lists of Goverment Data](http://www.data.gov/open-gov/)
+- [Using Twitter as a Data Source](http://blogs.lse.ac.uk/impactofsocialsciences/2015/07/10/social-media-research-tools-overview/)
 
-- [Philadelphia](https://www.opendataphilly.org/)
+#### Census and other GIS Data
 
-- [LexHub, language analyses deriving insights about people](http://lexhub.org/data_sets.html)
+- [Nathan Yau US Statistical Atlas - Amazing Plots, No Code](http://flowingdata.com/2015/06/16/reviving-the-statistical-atlas-of-the-united-states-with-new-data/)
 
-- [A little of everything](https://github.com/caesar0301/awesome-public-datasets/blob/master/README.rst)
+- [Package for TIGER/Line Shapefiles](https://rpubs.com/walkerke/tigris)
 
-- [CDC Datasets](http://www.cdc.gov/nchs/data_access/ftp_data.htm)
+- [2010 US Census Data in R](https://cran.r-project.org/web/packages/UScensus2010/index.html)
 
-- [COVID-19 in Philadelphia](https://www.phila.gov/programs/coronavirus-disease-2019-covid-19/testing-and-data/)
+- [Analysis of Spatial Data in R](https://cran.r-project.org/web/views/Spatial.html)
 
-- [JHU COVID-19 Counts](https://github.com/CSSEGISandData/COVID-19)
+#### Biobanks
+- [NIH Biobanks](https://www.nytimes.com/2018/03/19/health/nih-biobank-genes.html)
 
-- [NYT COVID-19 Counts](https://github.com/nytimes/covid-19-data)
+#### Genetic Data
 
-- [The Atlantic COVID-19 Counts](https://covidtracking.com/about-data)
+- [Genetics Timeline](https://unlockinglifescode.org/timeline)
 
+- [1000 Genome Project End](http://www.wired.com/2015/09/power-1000-genomes/)
+
+- [Whole Exome Sequencing Review](https://f1000research.com/articles/9-336/v1)
+
+- [Tutorials from the UK 100,000 Genomes Project](http://www.genomicsengland.co.uk/the-100000-genomes-project/understanding-genomics/)
+
+- [Matt Might Talk on How to Face an Unknown Rare Disease and Challenging the "Not Actionable" Label](https://youtu.be/rx0kK6VnLSc)
+
+#### Transcriptomic Data
+
+- [Classic gene expression study of breast cancer](http://www.nature.com/nature/journal/v415/n6871/full/415530a.html)
+
+- [Batch effect example: rodents get stressed with male handlers and have decreased pain response](http://www.nature.com/news/male-researchers-stress-out-rodents-1.15106)
+
+- [Batch effects overview](http://www.nature.com/nrg/journal/v11/n10/full/nrg2825.html)
+
+- [Batch effects explained in straightforward terms](http://simplystatistics.org/2015/05/20/is-it-species-or-is-it-batch-they-are-confounded-so-we-cant-know/)
+
+- [Batch effects discussion on twitter](http://www.nature.com/news/potential-flaws-in-genomics-paper-scrutinized-on-twitter-1.17591)
+
+- [Reanalysis of paper where batch effects were not fully accounted for](http://f1000research.com/articles/4-121/v1)
+
+- [What is a read mapping?](https://liorpachter.wordpress.com/2015/11/01/what-is-a-read-mapping/)
+
+- [Unwanted effects when processing blood samples](http://www.pnas.org/content/111/47/16802.short)
+
+#### Functional Annotation and Pathway Analysis
+
+- [GSEA vs. DAVID](http://genomespot.blogspot.com.au/2016/02/pathway-analysis-david-versus-gsea.html)
+
+- [On the dependence of enrichment results on reference pathways](http://biorxiv.org/content/early/2016/04/19/049288)
+
+#### Cloud Computing
+
+- [AWS Training](https://aws.amazon.com/training/intro_series/)
+
+- [What is cloud computing?](https://aws.amazon.com/what-is-cloud-computing/)
 
 ***
 
