@@ -1,8 +1,5 @@
----
-title: "BMIN503/EPID600: Optional Reading"
-output: html_document
----
-***
+BMIN503/EPID600 Optional Reading
+============
 
 #### Data Science
 
@@ -196,5 +193,5 @@ output: html_document
 
 - [What is cloud computing?](https://aws.amazon.com/what-is-cloud-computing/)
 
-***
+
 
