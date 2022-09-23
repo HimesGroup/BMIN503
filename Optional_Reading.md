@@ -1,6 +1,7 @@
 BMIN503/EPID600 Optional Reading
 ============
 
+
 #### Data Science
 
 - [Data Scientist: The Sexiest Job of the 21st Century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/)
