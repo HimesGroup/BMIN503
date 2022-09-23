@@ -57,3 +57,4 @@ All work submitted for credit is expected to be your own work. In the preparatio
 University of Pennsylvania provides reasonable accommodations to students with disabilities who have self-identified and been approved by the office of Student Disabilities Services (SDS). Please make an appointment to meet with me as soon as possible in order to discuss your accommodations and your needs. If you have not yet contacted SDS, and would like to request accommodations or have questions, you can make an appointment by calling (215) 573-9235. The SDS office is located in the Weingarten Learning Resources Center at Hamilton Village, 220 South 40th St, Suite 260. All SDS services are free and confidential. Please visit the SDS website at https://wlrc.vpul.upenn.edu/sds/
 
 
+
