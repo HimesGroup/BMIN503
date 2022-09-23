@@ -1,10 +1,7 @@
----
-title: "Publicly Available Data Sources"
-output: html_document
----
+Publicly Available Data Sources
+============
 
 
-***
 - [Lists of Goverment Data](http://www.data.gov/open-gov/)
 
 - [Philadelphia](https://www.opendataphilly.org/)
