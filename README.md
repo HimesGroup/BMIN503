@@ -44,8 +44,10 @@ The final project will answer a question selected by each student using biomedic
 ### Textbooks
 There are many free online resources to learn R. The following textbook is suggested but not required for those students who prefer to have a printed reference:
 * Wickham H and Grolemund G, “R for Data Science” O’Reilly (2017) [Online version is free](https://r4ds.had.co.nz/) 
+
 For those seeking to a textbook that covers biostatistics in greater depth, we recommend the following one:
 * Rosner B, “Fundamentals of Biostatistics” Brooks/Cole, Cengage Learning. (2016)
+
 For those seeking to a textbook that covers machine learning well and provides a starting point for further learning, we recommend the following one:
 * Burkov, A, “The Hundred-Page Machine Learning Book” (2019) [Online version is free](http://themlbook.com/wiki/doku.php)
 
