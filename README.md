@@ -47,7 +47,7 @@ There are many free online resources to learn R. The following textbook is sugge
 For those seeking to a textbook that covers biostatistics in greater depth, we recommend the following one:
 * Rosner B, “Fundamentals of Biostatistics” Brooks/Cole, Cengage Learning. (2016)
 For those seeking to a textbook that covers machine learning well and provides a starting point for further learning, we recommend the following one:
-Burkov, A, “The Hundred-Page Machine Learning Book” (2019) [Online version is free](http://themlbook.com/wiki/doku.php)
+* Burkov, A, “The Hundred-Page Machine Learning Book” (2019) [Online version is free](http://themlbook.com/wiki/doku.php)
 
 ### Prerequisites 
 Familiarity with basic statistical (e.g., EPID 526/7 or other first-year graduate level stats course) concepts is expected, as this course will not cover basic concepts in depth. A background in biology and computing would be helpful, but no formal requirements will be enforced. 
