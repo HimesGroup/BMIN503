@@ -14,10 +14,4 @@ Publicly Available Data Sources
 
 - [CDC Datasets](http://www.cdc.gov/nchs/data_access/ftp_data.htm)
 
-- [COVID-19 in Philadelphia](https://www.phila.gov/programs/coronavirus-disease-2019-covid-19/testing-and-data/)
-
-- [JHU COVID-19 Counts](https://github.com/CSSEGISandData/COVID-19)
-
-- [NYT COVID-19 Counts](https://github.com/nytimes/covid-19-data)
-
 
