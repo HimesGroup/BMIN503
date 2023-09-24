@@ -1,6 +1,6 @@
 BRFSS 2022 Data Dictionary
 =========
-This dictionary is for a portion of [BRFSS 2022](https://www.cdc.gov/brfss/annual_data/annual_2022.html) data.
+This dictionary is for the portion of modified [BRFSS 2022](https://www.cdc.gov/brfss/annual_data/annual_2022.html) data that is provided in the file brfss2022_cleaned.rds.
 
 
 | Variable Name | Original BRFSS Variable   | Description | Variable Label |
