@@ -1,7 +1,7 @@
 Data Science for Biomedical Informatics (BMIN503/EPID600)
 ============
 
-This repository contains files used for a University of Pennsylvania course taught Fall 2023. The [main course website](https://canvas.upenn.edu/courses/1714075) contains further details for students enrolled in the course.
+This repository contains files used for a University of Pennsylvania course taught Fall 2024. The [main course website](https://canvas.upenn.edu/courses/1795411) contains further details for students enrolled in the course.
 
 ### Course Description
 Data science refers broadly to using statistics and informatics techniques to gain insights from large datasets. Biomedical informatics refers to a range of disciplines that use computational approaches to analyze biomedical data to answer pre-specified questions as well as to discover novel hypotheses. In this course, we will use R and other freely available software to learn fundamental data science applied to a range of biomedical informatics topics, including those making use of health and omics data. After completing this course, students will:
@@ -14,13 +14,12 @@ Blanca E Himes, PhD, ATSF, FAMIA <br>
 Associate Professor of Informatics <br>
 
 **Guest Lecturers:** <br>
-Amy Campbell, PhD <br>
 John Holmes, PhD <br>
 Jesse Yenchih Hsu, PhD <br>
 Sherrie Xie, VMD, PhD <br>
 
 **TAs:** <br>
-Kimberly Lactaoen <br>
+Anastasia Lucas <br>
 Jakob Woerner <br>
 
 ### Expectations
@@ -35,10 +34,10 @@ Grading: The course is graded on a letter grade basis, according to the followin
 The course will consist of biweekly in-person meetings on Tues and Thurs 1:45-3:15pm. For those with circumstances that preclude in person attendance, lectures may be recorded via Zoom. Practicum materials to work through computational exercises will be available weekly. Six assignments will be due throughout the semester. A final project requiring a substantial amount of work and creativity will be due at the end of the semester. This project is in lieu of a final exam. Students will be encouraged to work independently and seek help as needed. Canvas will contain the latest course announcements.   
 
 ### Assignments
-Due dates for the assignments: 9/8/23, 9/22/23, 10/6/23, 10/20/23, 11/3/23, 11/17/23.
+Due dates for the assignments: 9/6/24, 9/20/24, 10/7/24, 10/28/24, 11/11/24, 11/25/24.
 
 ### Biomedical Data Science Project
-The final project will answer a question selected by each student using biomedical data and some of the tools presented during the course. After students choose the topic to address on their own, each will identify two faculty, staff and/or, postdocs to get feedback and help define a specific novel and interdisciplinary question. Although use of publicly available data for the project is encouraged, students may use an appropriate private data source. Students will work on these projects throughout the semester with final project reports due on 12/13/23. Grading will be based on three project components: 
+The final project will answer a question selected by each student using biomedical data and some of the tools presented during the course. After students choose the topic to address on their own, each will identify two faculty, staff and/or, postdocs to get feedback and help define a specific novel and interdisciplinary question. Although use of publicly available data for the project is encouraged, students may use an appropriate private data source. Students will work on these projects throughout the semester with final project reports due on 12/13/24. Grading will be based on three project components: 
 
 1. An html document derived from a Quarto Document that describes the question, source of data, analysis, and results.
 2. A GitHub repository that contains an organized project.
